@@ -5,7 +5,7 @@ user-guide-description: Erfahren Sie, wie Sie das Beste aus [!DNL Adobe Marketo 
 source-git-commit: 8d746d38a6bde1470a30706d43fa6567ebba8dff
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
