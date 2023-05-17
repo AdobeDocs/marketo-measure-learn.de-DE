@@ -10,9 +10,9 @@ ht-degree: 8%
 ---
 
 
-# [!DNL Marketo Measure] Tutorials {#tutorials}
+# [!DNL Marketo Measure]-Tutorials {#tutorials}
 
-+ [[!DNL Marketo Measure] Tutorials](overview.md)
++ [[!DNL Marketo Measure]-Tutorials](overview.md)
 + Marketo Measure-Installation {#install}
    + [Marketo Measure-Installation](installing/install-production.md)
    + [Berechtigungssätze ändern](installing/modify-permission-sets-production.md)
