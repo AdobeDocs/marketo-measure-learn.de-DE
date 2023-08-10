@@ -1,6 +1,6 @@
 ---
 title: Attributionsmodelle
-description: In dieser Lektion werden Attributionsmodelle definiert und die verschiedenen Modelle erläutert, die in [!DNL Marketo Measure], und wann die einzelnen Elemente zu verwenden sind.  Standardregelbasierte Modelle, benutzerdefinierte Modelle und AI/ML-Empfehlungen werden beschrieben.
+description: In dieser Lektion werden Attributionsmodelle definiert und die verschiedenen Modelle erläutert, die in [!DNL Marketo Measure]und wann die einzelnen Elemente verwendet werden.  Standardregelbasierte Modelle, benutzerdefinierte Modelle und AI/ML-Empfehlungen werden beschrieben.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -8,7 +8,8 @@ last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11682
 thumbnail: 347240.jpeg
 exl-id: ce4517f4-1e4c-40d9-b0eb-4b70419a4e19
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: Attribution
+source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 6%
@@ -17,6 +18,6 @@ ht-degree: 6%
 
 # Attributionsmodelle
 
-In dieser Lektion werden Attributionsmodelle definiert und die verschiedenen Modelle erläutert, die in [!DNL Marketo Measure], und wann die einzelnen Elemente zu verwenden sind.  Standardregelbasierte Modelle, benutzerdefinierte Modelle und AI/ML-Empfehlungen werden beschrieben.
+In dieser Lektion werden Attributionsmodelle definiert und die verschiedenen Modelle erläutert, die in [!DNL Marketo Measure]und wann die einzelnen Elemente verwendet werden.  Standardregelbasierte Modelle, benutzerdefinierte Modelle und AI/ML-Empfehlungen werden beschrieben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347240/?quality=12&learn=on)
