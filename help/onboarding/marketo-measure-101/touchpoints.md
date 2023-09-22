@@ -9,10 +9,10 @@ jira: KT-11681
 thumbnail: 347246.jpeg
 exl-id: 61bdf9e2-1861-46ba-96d2-261eee5e3630
 feature: Touchpoints
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 4%
+source-wordcount: '51'
+ht-degree: 3%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 4%
 
 In dieser Lektion wird beschrieben, welche Touchpoints in [!DNL Marketo Measure], wie sie erstellt werden und wie sie für die Attribution verwendet werden. [!DNL Marketo Measure] Datenobjekte, einschließlich [!DNL Marketo Measure] Touchpoints (BT) und [!DNL Marketo Measure] Attributions-Touchpoints (BVT) wurden eingeführt.
 
->[!VIDEO](https://video.tv.adobe.com/v/347246/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}

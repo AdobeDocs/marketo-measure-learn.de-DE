@@ -7,10 +7,10 @@ jira: KT-11327
 thumbnail: 347221.jpeg
 exl-id: a5790358-80d4-43cc-8337-58a522157578
 feature: Attribution
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 10%
+source-wordcount: '41'
+ht-degree: 9%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 10%
 
 Einen Überblick über vordefinierte Attributionsmodelle erhalten Sie in [!DNL Marketo Measure]. Erfahren Sie mehr über den Unterschied zwischen Single Touch-Modellen und Multi-Touch-Modellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
