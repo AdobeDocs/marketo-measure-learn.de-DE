@@ -2,10 +2,11 @@
 user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Erfahren Sie, wie Sie das Beste aus [!DNL Adobe Marketo Measure] (zuvor [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] Grundlagen und Definitionen.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 8%
 
 ---
 
@@ -20,10 +21,10 @@ ht-degree: 0%
    + [Erstellen Sie die [!DNL Marketo Measure] account](/help/installing/creating-marketo-measure-account-production.md)
 + Onboarding{#onboarding}
    + Marketing-Rolle{#marketing-role}
-      + [Warum [!DNL Marketo Measure] für CMOs und VPs](/help/onboarding/marketing-role/cmo-and-vp-why.md)
+      + [Warum [!DNL Marketo Measure] für GMO und VP](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Verwenden [!DNL Marketo Measure] als CMO oder VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [Warum [!DNL Marketo Measure] für Nachfragegenerationen/gebührenpflichtige Medien](/help/onboarding/marketing-role/demand-gen-why.md)
-      + [Verwendung [!DNL Marketo Measure] als bedarfsorientierter/Paid-Media-Marketingexperte](/help/onboarding/marketing-role/demand-gen-using.md)
+      + [Warum [!DNL Marketo Measure] für Nachfragegenerationen/bezahlte Medien](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [Verwendung [!DNL Marketo Measure] als bedarfsorientierter/Paid-Media-Marketer](/help/onboarding/marketing-role/demand-gen-using.md)
       + [Warum [!DNL Marketo Measure] für Content Marketing](/help/onboarding/marketing-role/content-marketing-why.md)
       + [Verwendung [!DNL Marketo Measure] als Inhaltsmarketer](/help/onboarding/marketing-role/content-marketing-using.md)
       + [Warum [!DNL Marketo Measure] für Ereignismarketing](/help/onboarding/marketing-role/events-marketing-why.md)
@@ -34,7 +35,7 @@ ht-degree: 0%
       + [Attribution](/help/onboarding/marketo-measure-101/what-is-attribution.md)
       + [Was ist [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure-Daten](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
-      + [Kontaktpunkte](/help/onboarding/marketo-measure-101/touchpoints.md)
+      + [Touchpoints](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [Attributionsmodelle](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
       + [Die [!DNL Marketo Measure] ROI-Dashboards](/help/onboarding/marketo-measure-102/roi-dashboards.md)
@@ -54,12 +55,12 @@ ht-degree: 0%
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
    + [Einführung in [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
 + Definitionen{#definitions}
-   + Kontaktpunkte{#touchpoints}
+   + Touchpoints{#touchpoints}
       + [Was ist ein Touchpoint?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [Milestone-Touchpoints](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Touchpoint-Komponenten](/help/definitions/touchpoints/touchpoint-components.md)
       + [Online- und Offline-Touchpoints](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + Zuweisung{#attribution}
+   + Attribution{#attribution}
       + [Attribution](/help/definitions/attribution/what-is-attribution.md)
       + [Attributionsmodelle](/help/definitions/attribution/attribution-models.md)
       + [Erstkontakt-Modell](/help/definitions/attribution/first-touch-model.md)
@@ -77,7 +78,7 @@ ht-degree: 0%
       + [BAT-Objekt](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure-Person](/help/definitions/crm-objects/marketo-measure-person.md)
    + UTM-Parameter{#utm-parameters}
-      + [How [!DNL Marketo Measure] Tagging-Arbeiten](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [How [!DNL Marketo Measure] Tagging von Werken](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Verbinden integrierter Plattformen mit [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomie eines UTM-Parameters](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Best Practices für UTM](/help/definitions/utm-parameters/utm-best-practices.md)
