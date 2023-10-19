@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Erfahren Sie, wie Sie das Beste aus [!DNL Adobe Marketo Measure] (zuvor [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] Grundlagen und Definitionen.
 auto-video-transcripts: true
-source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
+source-git-commit: 1e0a4e4b256f47d7c04455990083c4044cd04284
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 7%
       + [Überprüfen der Kanal- und Integrationseinstellungen (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [CRM-Einstellungen (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
       + [Einstellungen für Leads, Kontakte und Chancen](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
-      + [Online-Kanal-Einrichtung](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Einrichtung des Online-Kanals](/help/onboarding/fundamentals/online-channel-setup.md)
       + [Übersicht über die Anzeigenverbindung](/help/onboarding/fundamentals/ads-connection-overview.md)
       + [Übersicht über die SFDC-Installation](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Offline-Kanal-Einrichtung](/help/onboarding/fundamentals/offline-channel-setup.md)
