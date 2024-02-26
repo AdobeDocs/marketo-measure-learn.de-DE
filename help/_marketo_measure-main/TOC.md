@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Erfahren Sie, wie Sie das Beste aus [!DNL Adobe Marketo Measure] (zuvor [!DNL Bizible]). Sehen Sie sich Tutorials zu Installation, Onboarding, Grundlagen und Definitionen an.
 auto-video-transcripts: true
-source-git-commit: 9eefc4c2fdbbd031a7c0a8ba0a6bcc892cd11771
+source-git-commit: 8a8e0a492cefe2a448f38089181f675005e6a471
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 5%
+source-wordcount: '342'
+ht-degree: 4%
 
 ---
 
@@ -113,3 +113,5 @@ ht-degree: 5%
 + Evangelistische Gespräche {#evangelist}
    + [Marketing-Attribution und -Metriken](/help/evangelist-talks/attribution-and-metrics.md)
    + [Marketing-Attributionsreife](/help/evangelist-talks/marketing-attribution-maturity.md)
+   + [Marketing-Attribution und Datensilos](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
+
