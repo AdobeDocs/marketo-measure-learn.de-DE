@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Erfahren Sie, wie Sie das Beste aus [!DNL Adobe Marketo Measure] (zuvor [!DNL Bizible]). Sehen Sie sich Tutorials zu Installation, Onboarding, Grundlagen und Definitionen an.
 auto-video-transcripts: true
-source-git-commit: 8a8e0a492cefe2a448f38089181f675005e6a471
+source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '352'
 ht-degree: 4%
 
 ---
@@ -114,4 +114,5 @@ ht-degree: 4%
    + [Marketing-Attribution und -Metriken](/help/evangelist-talks/attribution-and-metrics.md)
    + [Marketing-Attributionsreife](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Marketing-Attribution und Datensilos](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-
++ Experience League von Live-Aufzeichnungen{#experience-league-live-recordings}
+   + [Marketo Measure - Neue Discover-Dashboards](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
