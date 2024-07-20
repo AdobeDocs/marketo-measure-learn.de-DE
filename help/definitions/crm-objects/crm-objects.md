@@ -1,6 +1,6 @@
 ---
 title: CRM-Objekte
-description: Aufschlüsselung der Beziehung zwischen Standard-CRM-Objekten und [!DNL Marketo Measure] benutzerdefinierte Objekte und Felder.
+description: Sehen Sie sich eine Aufschlüsselung der Beziehung zwischen Standard-CRM-Objekten und [!DNL Marketo Measure] benutzerdefinierten Objekten und Feldern an.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # CRM-Objekte
 
-Aufschlüsselung der Beziehung zwischen Standard-CRM-Objekten und [!DNL Marketo Measure] benutzerdefinierte Objekte und Felder.
+Sehen Sie sich eine Aufschlüsselung der Beziehung zwischen Standard-CRM-Objekten und benutzerdefinierten Objekten und Feldern vom Typ [!DNL Marketo Measure] an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}

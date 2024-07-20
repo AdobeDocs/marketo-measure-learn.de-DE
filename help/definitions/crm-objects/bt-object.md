@@ -1,6 +1,6 @@
 ---
 title: Marketo Measure Touchpoint-Objekt
-description: Erfahren Sie mehr über [!DNL Marketo Measure] Touchpoint.
+description: Erfahren Sie mehr über einen  [!DNL Marketo Measure] Touchpoint.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Marketo Measure Touchpoint-Objekt
 
-Erfahren Sie mehr über [!DNL Marketo Measure] Touchpoint.
+Erfahren Sie mehr über einen [!DNL Marketo Measure] Touchpoint.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

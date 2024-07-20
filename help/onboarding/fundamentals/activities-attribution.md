@@ -1,5 +1,5 @@
 ---
-title: -Aktivitätszuordnung
+title: Aktivitätszuordnung
 description: Erfahren Sie mehr über die Aktivitätszuordnung in Marketo Measure. Mit dieser Funktion können Sie Touchpoints aus dem Aktivitätsobjekt in Salesforce über Task- oder Event-Datensätze erstellen.
 jira: KT-11229
 thumbnail: 347192.jpeg
@@ -8,12 +8,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
-# -Aktivitätszuordnung
+# Aktivitätszuordnung
 
-Diese Lektion behandelt [!UICONTROL Aktivitätszuordnung]. Mit dieser Funktion können Sie Touchpoints aus dem Aktivitätsobjekt in Salesforce über Task- oder Event-Datensätze erstellen.
+In dieser Lektion wird die [!UICONTROL Aktivitätszuordnung] behandelt. Mit dieser Funktion können Sie Touchpoints aus dem Aktivitätsobjekt in Salesforce über Task- oder Event-Datensätze erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}

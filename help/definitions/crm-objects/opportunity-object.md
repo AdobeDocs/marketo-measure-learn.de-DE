@@ -1,6 +1,6 @@
 ---
 title: Opportunity-Objekt
-description: Aufschlüsselung der Beziehung zwischen [!DNL Marketo Measure] und dem Opportunity -Objekt.
+description: Sehen Sie sich eine Aufschlüsselung der Beziehung zwischen [!DNL Marketo Measure] und dem Opportunity-Objekt an.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Opportunity-Objekt
 
-Aufschlüsselung der Beziehung zwischen [!DNL Marketo Measure] und dem Opportunity -Objekt.
+Sehen Sie sich eine Aufschlüsselung der Beziehung zwischen [!DNL Marketo Measure] und dem Opportunity-Objekt an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

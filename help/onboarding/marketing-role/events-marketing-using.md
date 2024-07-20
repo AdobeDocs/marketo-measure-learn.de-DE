@@ -1,6 +1,6 @@
 ---
-title: Verwenden [!DNL Marketo Measure] als Ereignismarketer
-description: In dieser Lektion erfahren Sie schnell, wie Marketing-Teams für Events [!DNL Marketo Measure] in ihrer beruflichen Rolle.
+title: Verwenden von [!DNL Marketo Measure] als Ereignismarketer
+description: In dieser Lektion erfahren Sie schnell, wie Marketing-Teams von Ereignissen [!DNL Marketo Measure] in ihrer Stellenfunktion einsetzen können.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden [!DNL Marketo Measure] als Ereignismarketer
+# Verwenden von [!DNL Marketo Measure] als Ereignismarketer
 
-In dieser Lektion erfahren Sie schnell, wie Marketing-Teams für Events [!DNL Marketo Measure] in ihrer beruflichen Rolle.
+In dieser Lektion erfahren Sie schnell, wie Marketing-Teams für Ereignisse [!DNL Marketo Measure] in ihrer Stellenrolle verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}

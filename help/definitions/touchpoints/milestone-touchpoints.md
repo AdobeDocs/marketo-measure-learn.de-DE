@@ -1,6 +1,6 @@
 ---
 title: Milestone-Touchpoints
-description: Wichtige Meilensteine finden Sie unter [!DNL Marketo Measure] und wie sie erstellt werden.
+description: Erfahren Sie mehr über die wichtigsten Meilensteine in [!DNL Marketo Measure] und wie sie erstellt werden.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11323
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Milestone-Touchpoints
 
-Wichtige Meilensteine finden Sie unter [!DNL Marketo Measure] und wie sie erstellt werden.
+Erfahren Sie mehr über die wichtigsten Meilensteine in [!DNL Marketo Measure] und wie sie erstellt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}

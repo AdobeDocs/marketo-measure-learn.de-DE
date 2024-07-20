@@ -1,6 +1,6 @@
 ---
 title: Berechtigungssätze ändern (Produktionsinstanz)
-description: Erfahren Sie, wie Sie die Berechtigungssätze in [!DNL Marketo Measure] (Produktionsinstanz).
+description: Erfahren Sie, wie Sie Berechtigungssätze in [!DNL Marketo Measure]  (Produktionsinstanz) ändern.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Ändern von Berechtigungssätzen (Produktionsinstanz)
 
-Erfahren Sie, wie Sie die Berechtigungssätze in [!DNL Marketo Measure] (Produktionsinstanz).
+Erfahren Sie, wie Sie Berechtigungssätze in [!DNL Marketo Measure] (Produktionsinstanz) ändern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

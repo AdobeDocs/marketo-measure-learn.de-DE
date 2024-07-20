@@ -1,6 +1,6 @@
 ---
 title: Installation (Produktionsinstanz)
-description: Erfahren Sie, wie Sie eine Produktionsinstanz von  [!DNL Marketo Measure] installieren.
+description: Erfahren Sie mehr über die Installation einer Produktionsinstanz von  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,7 +12,7 @@ feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 63%
+ht-degree: 31%
 
 ---
 

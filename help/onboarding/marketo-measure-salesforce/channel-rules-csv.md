@@ -1,6 +1,6 @@
 ---
 title: Einrichten von Kanalregeln mit einer CSV-Datei
-description: In dieser Lektion wird beschrieben, wie Sie [!DNL Marketo Measure] Kanalregeln mithilfe einer CSV-Datei.
+description: In dieser Lektion wird beschrieben, wie Sie  [!DNL Marketo Measure] Kanalregeln mithilfe einer CSV-Datei einrichten.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Einrichten von Kanalregeln mit einer CSV-Datei
 
-In dieser Lektion wird beschrieben, wie Sie [!DNL Marketo Measure] Kanalregeln mithilfe einer CSV-Datei.
+In dieser Lektion wird beschrieben, wie Sie [!DNL Marketo Measure]-Kanalregeln mithilfe einer CSV-Datei einrichten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

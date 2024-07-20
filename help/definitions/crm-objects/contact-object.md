@@ -1,6 +1,6 @@
 ---
 title: Kontaktobjekt
-description: Aufschlüsselung der Beziehung zwischen dem Kontaktobjekt und dem [!DNL Marketo Measure] Touchpoint-Objekt und [!DNL Marketo Measure] Attributions-Touchpoint-Objekt.
+description: Sehen Sie sich eine Aufschlüsselung der Beziehung zwischen dem Kontaktobjekt und dem  [!DNL Marketo Measure] Touchpoint-Objekt und dem [!DNL Marketo Measure] Attributions-Touchpoint-Objekt an.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Kontaktobjekt
 
-In diesem Video wird die Beziehung zwischen dem Kontaktobjekt und dem [!DNL Marketo Measure] Touchpoint-Objekt und [!DNL Marketo Measure] Attributions-Touchpoint-Objekt.
+In diesem Video wird die Beziehung zwischen dem Kontaktobjekt und dem Touchpoint-Objekt [!DNL Marketo Measure] und dem Touchpoint-Objekt [!DNL Marketo Measure] Attribution aufgeschlüsselt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}

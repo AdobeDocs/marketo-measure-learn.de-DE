@@ -1,6 +1,6 @@
 ---
 title: Bericht "Konten mit Interessenten und Kontakten"
-description: Informationen zum [!UICONTROL Konto- und Leadkontakte] zusammen mit den Informationen für und wie diese Objekte verbunden werden.
+description: Erfahren Sie mehr über den Bericht [!UICONTROL Konto und Interessenten Kontakte] sowie Informationen zu beiden und darüber, wie diese Objekte verbunden werden.
 jira: KT-11239
 thumbnail: 347220.jpeg
 exl-id: dc27ad9a-dd09-4662-8dfd-cb237d66c893
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Konto- und Leadkontakte] Bericht
+# Bericht [!UICONTROL Konto und Interessenten-Kontakte]
 
-In diesem Tutorial wird die [!UICONTROL Konto- und Leadkontakte] zusammen mit den Informationen für und wie diese Objekte verbunden werden.
+In diesem Tutorial werden der Bericht [!UICONTROL Konto und Interessenten Kontakte] sowie die Informationen zu beiden und die Art und Weise, wie diese Objekte verbunden werden, erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}

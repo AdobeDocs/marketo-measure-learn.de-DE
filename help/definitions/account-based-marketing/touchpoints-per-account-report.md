@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Touchpoints pro Konto] Bericht
+# Bericht [!UICONTROL Touchpoints pro Konto]
 
 In diesem Tutorial wird beschrieben, wie Sie einen Touchpoint-Bericht für ein Konto erstellen.
 

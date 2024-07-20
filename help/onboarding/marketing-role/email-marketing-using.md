@@ -1,6 +1,6 @@
 ---
-title: Verwenden [!DNL Marketo Measure] als E-Mail-Marketer
-description: In dieser Lektion erfahren Sie, wie E-Mail-Marketer die [!DNL Marketo Measure] in ihrer beruflichen Rolle.
+title: Verwenden von [!DNL Marketo Measure] als E-Mail-Marketer
+description: In dieser Lektion erfahren Sie, wie E-Mail-Marketingexperten  [!DNL Marketo Measure] in ihrer Stellenfunktion verwenden können.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden [!DNL Marketo Measure] als E-Mail-Marketer
+# Verwenden von [!DNL Marketo Measure] als E-Mail-Marketer
 
-In dieser Lektion erfahren Sie, wie E-Mail-Marketer die [!DNL Marketo Measure] in ihrer beruflichen Rolle.
+In dieser Lektion erfahren Sie, wie E-Mail-Marketingexperten [!DNL Marketo Measure] in ihrer Stellenfunktion verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){transcript=true}

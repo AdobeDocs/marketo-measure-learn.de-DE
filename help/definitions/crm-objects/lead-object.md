@@ -1,6 +1,6 @@
 ---
 title: Lead-Objekt
-description: Aufschlüsselung der Beziehung zwischen dem Lead-Objekt und der [!DNL Marketo Measure] Touchpoint-Objekt.
+description: Sehen Sie sich eine Aufschlüsselung der Beziehung zwischen dem Lead-Objekt und dem  [!DNL Marketo Measure] Touchpoint-Objekt an.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Lead-Objekt
 
-Aufschlüsselung der Beziehung zwischen dem Lead-Objekt und der [!DNL Marketo Measure] Touchpoint-Objekt.
+Sehen Sie sich eine Aufschlüsselung der Beziehung zwischen dem Lead-Objekt und dem Touchpoint-Objekt [!DNL Marketo Measure] an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

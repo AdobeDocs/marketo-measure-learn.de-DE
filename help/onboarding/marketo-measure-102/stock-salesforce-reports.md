@@ -1,6 +1,6 @@
 ---
 title: Stock Salesforce-Berichte
-description: Diese Lektion behandelt standardmäßige, vordefinierte Salesforce CRM-Berichte und Datenobjekte, die in [!DNL Marketo Measure].
+description: Diese Lektion behandelt standardmäßige, vordefinierte Salesforce CRM-Berichte und Datenobjekte, die in [!DNL Marketo Measure] enthalten sind.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Stock Salesforce-Berichte
 
-Diese Lektion behandelt standardmäßige, vordefinierte Salesforce CRM-Berichte und Datenobjekte, die in [!DNL Marketo Measure].
+Diese Lektion behandelt standardmäßige, vordefinierte Salesforce CRM-Berichte und Datenobjekte, die in [!DNL Marketo Measure] enthalten sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Kampagnenobjektfelder
-description: In dieser Lektion werden die Salesforce CRM Campaign-Objektfelder behandelt, die [!DNL Marketo Measure] verwendet , um Kampagnen und Kampagnenmitglieder Marketing-Kanälen zuzuordnen. Die Funktionsweise dieser Kampagnenobjekte ist bei der Verwaltung und Zuordnung Ihrer Offline-Kanäle in wichtig. [!DNL Marketo Measure].
+description: In dieser Lektion werden die Salesforce CRM Campaign-Objektfelder behandelt, die [!DNL Marketo Measure] verwendet, um Kampagnen und Kampagnenmitglieder Marketingkanälen zuzuordnen. Die Funktionsweise dieser Kampagnenobjekte ist bei der Verwaltung und Zuordnung Ihrer Offline-Kanäle in  [!DNL Marketo Measure] wichtig.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Kampagnenobjektfelder
 
-In dieser Lektion werden die Salesforce CRM Campaign-Objektfelder behandelt, die [!DNL Marketo Measure] verwendet , um Kampagnen und Kampagnenmitglieder Marketing-Kanälen zuzuordnen. Die Funktionsweise dieser Kampagnenobjekte ist bei der Verwaltung und Zuordnung Ihrer Offline-Kanäle in wichtig. [!DNL Marketo Measure].
+In dieser Lektion werden die Salesforce CRM Campaign-Objektfelder behandelt, die [!DNL Marketo Measure] verwendet, um Kampagnen und Kampagnenmitglieder Marketingkanälen zuzuordnen. Die Funktionsweise dieser Kampagnenobjekte ist bei der Verwaltung und Zuordnung Ihrer Offline-Kanäle in [!DNL Marketo Measure] wichtig.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Die [!DNL Marketo Measure] ROI-Dashboards
-description: Diese Lektion bietet einen Überblick über die konfigurierbaren Dashboards, die in [!DNL Marketo Measure].
+description: Diese Lektion bietet einen Überblick über die konfigurierbaren Dashboards, die in [!DNL Marketo Measure] verfügbar sind.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Die [!DNL Marketo Measure] ROI-Dashboards
 
-Diese Lektion bietet einen Überblick über die konfigurierbaren Dashboards, die in [!DNL Marketo Measure].
+Diese Lektion bietet einen Überblick über die konfigurierbaren Dashboards, die in [!DNL Marketo Measure] verfügbar sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}

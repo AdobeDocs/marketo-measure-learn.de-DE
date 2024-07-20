@@ -1,6 +1,6 @@
 ---
 title: Synchronisieren von Offline-Kampagnen
-description: In dieser Lektion wird beschrieben, wie Sie Salesforce-CRM-Kampagnen mit [!DNL Marketo Measure] - einzeln oder als Massengut.
+description: In dieser Lektion wird beschrieben, wie Salesforce CRM-Kampagnen mit [!DNL Marketo Measure]  synchronisiert werden - einzeln oder stapelweise.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 16%
 
 # Synchronisieren von Offline-Kampagnen
 
-In dieser Lektion wird beschrieben, wie Sie Salesforce-CRM-Kampagnen mit [!DNL Marketo Measure] - einzeln oder als Massengut.
+In dieser Lektion wird beschrieben, wie Salesforce CRM-Kampagnen mit [!DNL Marketo Measure] synchronisiert werden - einzeln oder stapelweise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}

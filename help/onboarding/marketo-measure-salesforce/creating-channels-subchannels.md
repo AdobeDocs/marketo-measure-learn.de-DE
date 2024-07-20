@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Kanälen und Unterkanälen
-description: In dieser Lektion wird beschrieben, wie Sie Hierarchien und Namen von Kanälen und Unterkanälen in [!DNL Marketo Measure].
+description: In dieser Lektion wird beschrieben, wie Sie in [!DNL Marketo Measure] Kanal- und Unterkanalhierarchien und -namen erstellen und verwalten.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Erstellen von Kanälen und Unterkanälen
 
-In dieser Lektion wird beschrieben, wie Sie Hierarchien und Namen von Kanälen und Unterkanälen in [!DNL Marketo Measure].
+In dieser Lektion wird beschrieben, wie Sie Hierarchien und Namen von Kanälen und Unterkanälen in [!DNL Marketo Measure] erstellen und verwalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}

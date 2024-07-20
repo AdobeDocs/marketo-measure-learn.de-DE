@@ -1,6 +1,6 @@
 ---
-title: Warum [!DNL Marketo Measure] für E-Mail-Marketing
-description: Diese Lektion fasst zusammen [!DNL Marketo Measure]Die wichtigsten Funktionen und Vorteile für E-Mail-Marketer.
+title: Warum [!DNL Marketo Measure]  für E-Mail-Marketing
+description: In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für E-Mail-Marketer zusammengefasst.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Warum [!DNL Marketo Measure] für E-Mail-Marketing
 
-Diese Lektion fasst zusammen [!DNL Marketo Measure]Die wichtigsten Funktionen und Vorteile für E-Mail-Marketer.
+In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für E-Mail-Marketer zusammengefasst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}

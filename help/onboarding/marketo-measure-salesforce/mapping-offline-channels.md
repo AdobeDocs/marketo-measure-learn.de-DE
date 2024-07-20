@@ -1,6 +1,6 @@
 ---
 title: Offline-Kanäle zuordnen
-description: In dieser Lektion wird die Zuordnung von Offline-Kanälen zu [!DNL Marketo Measure] mit dem Salesforce Campaign-Objekt und dem Feld Kampagnentypen .
+description: In dieser Lektion wird die Zuordnung von Offline-Kanälen zu [!DNL Marketo Measure] mit dem Campaign-Objekt Salesforce und dem Feld Kampagnentypen behandelt.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Offline-Kanäle zuordnen
 
-In dieser Lektion wird die Zuordnung von Offline-Kanälen zu [!DNL Marketo Measure] mit dem Salesforce Campaign-Objekt und dem Feld Kampagnentypen .
+Diese Lektion behandelt die Zuordnung von Offline-Kanälen zu [!DNL Marketo Measure] mit dem Salesforce Campaign-Objekt und dem Feld Kampagnentypen .
 
 >[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}

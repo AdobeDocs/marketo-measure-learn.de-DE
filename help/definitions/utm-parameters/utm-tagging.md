@@ -1,6 +1,6 @@
 ---
 title: UTM-Tagging
-description: Sehen Sie sich ein Tutorial dazu an, was ein UTM ist und wie es funktioniert [!DNL Marketo Measure].
+description: Sehen Sie sich ein Tutorial dazu an, was ein UTM ist und wie es mit [!DNL Marketo Measure] funktioniert.
 jira: KT-11234
 thumbnail: 347204.jpeg
 exl-id: 447ec263-6585-409f-8300-d92fcc6289d6
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # UTM-Tagging
 
-Sehen Sie sich ein Tutorial dazu an, was ein UTM ist und wie es funktioniert [!DNL Marketo Measure].
+Sehen Sie sich ein Tutorial dazu an, was ein UTM ist und wie es mit [!DNL Marketo Measure] funktioniert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}

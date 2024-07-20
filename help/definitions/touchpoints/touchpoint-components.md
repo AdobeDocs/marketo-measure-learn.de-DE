@@ -1,6 +1,6 @@
 ---
 title: Touchpoint-Komponenten
-description: Hier erhalten Sie eine Aufschlüsselung der verschiedenen Komponenten von Touchpoints und deren Definition. In diesem Beispiel werden Komponenten sowohl von BTs als auch von BVTs umgangen.
+description: Hier erhalten Sie eine Aufschlüsselung der verschiedenen Komponenten von Touchpoints und deren Definition. In diesem Beispiel werden Komponenten von BT und BAT umgebrochen.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11324
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Touchpoint-Komponenten
 
-Hier erhalten Sie eine Aufschlüsselung der verschiedenen Komponenten von Touchpoints und deren Definition. In diesem Beispiel werden Komponenten sowohl von BTs als auch von BVTs umgangen.
+Hier erhalten Sie eine Aufschlüsselung der verschiedenen Komponenten von Touchpoints und deren Definition. In diesem Beispiel werden Komponenten von BT und BAT umgebrochen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}

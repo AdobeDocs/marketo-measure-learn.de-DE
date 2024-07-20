@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # [!UICONTROL Konten nach Interaktionsbewertung]
 
-Eine allgemeine Übersicht über die [!UICONTROL Konto nach Interaktionsbewertung].  In diesem Tutorial wird erläutert, welche Metriken in diesen Punktstand und den damit verbundenen Bericht aufgenommen werden.
+Eine allgemeine Übersicht über die Punktzahl [!UICONTROL Konto nach Interaktion].  In diesem Tutorial wird erläutert, welche Metriken in diesen Punktstand und den damit verbundenen Bericht aufgenommen werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Marketo Measure] Attributions-Touchpoint-Objekt"
-description: Informationen zu [!DNL Marketo Measure] [!UICONTROL Touchpoints der Attribution].
+description: Erfahren Sie mehr über [!DNL Marketo Measure] [!UICONTROL Attributions-Touchpoints].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL Attributions-Touchpoint] Objekt
+# [!DNL Marketo Measure] [!UICONTROL Touchpoint der Attribution] -Objekt
 
-Informationen zu [!DNL Marketo Measure] [!UICONTROL Touchpoints der Attribution].
+Erfahren Sie mehr über [!DNL Marketo Measure] [!UICONTROL Attributions-Touchpoints].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}

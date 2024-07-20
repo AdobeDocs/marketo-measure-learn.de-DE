@@ -1,6 +1,6 @@
 ---
-title: Verwenden [!DNL Marketo Measure] als Inhaltsmarketer
-description: In dieser Lektion erfahren Sie schnell, wie Content Marketingexperten [!DNL Marketo Measure] in ihrer beruflichen Rolle.
+title: Verwenden von [!DNL Marketo Measure] als Inhaltsmarketer
+description: In dieser Lektion erfahren Sie schnell, wie Content Marketingexperten  [!DNL Marketo Measure] in ihrer Arbeitsplatzrolle verwenden können.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden [!DNL Marketo Measure] als Inhaltsmarketer
+# Verwenden von [!DNL Marketo Measure] als Inhaltsmarketer
 
-In dieser Lektion erfahren Sie schnell, wie Content Marketingexperten [!DNL Marketo Measure] in ihrer beruflichen Rolle.
+In dieser Lektion erfahren Sie schnell, wie Content Marketingexperten in ihrer Arbeitsplatzrolle [!DNL Marketo Measure] verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}

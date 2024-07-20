@@ -1,6 +1,6 @@
 ---
-title: Verbinden integrierter Plattformen mit [!DNL Marketo Measure]
-description: Erfahren Sie, wie Sie eine Anzeigenplattform mit Ihrer [!DNL Marketo Measure] Konto.
+title: Verbinden integrierter Plattformen mit  [!DNL Marketo Measure]
+description: Erfahren Sie, wie Sie eine Anzeigenplattform mit Ihrem [!DNL Marketo Measure] Konto verbinden.
 jira: KT-11237
 thumbnail: 347211.jpeg
 exl-id: 6064be37-d27a-4db1-8bd1-4b70d7f99248
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Verbinden integrierter Plattformen mit [!DNL Marketo Measure]
+# Integrierte Plattformen mit [!DNL Marketo Measure] verbinden
 
-Erfahren Sie, wie Sie eine Anzeigenplattform mit Ihrer [!DNL Marketo Measure] Konto.
+Erfahren Sie, wie Sie eine Anzeigenplattform mit Ihrem [!DNL Marketo Measure]-Konto verbinden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347211/?learn=on){transcript=true}

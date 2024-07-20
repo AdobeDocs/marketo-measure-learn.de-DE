@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Einführung in [!DNL Marketo Measure] [!UICONTROL Discover]
 
-Überblick über [!UICONTROL Discover] und die verschiedenen Foren. In dieser Lektion erfahren Sie mehr über gängige Anwendungsfälle für die Berichterstellung für mehrere Discover-Dashboards und -Kacheln.
+Sehen Sie sich einen Überblick über [!UICONTROL Discover] und die verschiedenen Pinnwände an. In dieser Lektion erfahren Sie mehr über gängige Anwendungsfälle für die Berichterstellung für mehrere Discover-Dashboards und -Kacheln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
