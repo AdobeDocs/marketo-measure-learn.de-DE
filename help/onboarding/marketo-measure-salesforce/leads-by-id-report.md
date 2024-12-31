@@ -1,6 +1,6 @@
 ---
 title: Leads nach ID-Bericht
-description: In dieser Lektion wird der Bericht Lead nach ID in Salesforce CRM beschrieben.
+description: Diese Lektion beschreibt einen Lead-nach-ID-Bericht in Salesforce CRM
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,13 +11,13 @@ exl-id: 6ab14055-a649-40c1-a72e-fd9ddad0078a
 feature: Salesforce
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '30'
 ht-degree: 0%
 
 ---
 
 # Leads nach ID-Bericht
 
-In dieser Lektion wird der Bericht Lead nach ID in Salesforce CRM beschrieben.
+Diese Lektion beschreibt einen Lead-nach-ID-Bericht in Salesforce CRM
 
 >[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}

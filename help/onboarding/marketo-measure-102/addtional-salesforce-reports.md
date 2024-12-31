@@ -1,6 +1,6 @@
 ---
 title: Zusätzliche Salesforce-Berichte
-description: In dieser Lektion werden benutzerdefinierte Attributionsberichte in Salesforce CRM behandelt.
+description: In dieser Lektion werden Berichte zur benutzerdefinierten Attribution in Salesforce CRM behandelt.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,13 +11,13 @@ exl-id: b6253364-0332-43a6-a17e-c15e9b2fb5f7
 feature: Salesforce, Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
 
 # Zusätzliche Salesforce-Berichte
 
-In dieser Lektion werden benutzerdefinierte Attributionsberichte in Salesforce CRM behandelt.
+In dieser Lektion werden Berichte zur benutzerdefinierten Attribution in Salesforce CRM behandelt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}

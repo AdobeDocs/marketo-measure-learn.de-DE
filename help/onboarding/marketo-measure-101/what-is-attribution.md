@@ -1,5 +1,5 @@
 ---
-title: Was ist Attribution?
+title: Was ist Attribution
 description: Diese Lektion enthält eine Definition der Attribution, einen Vergleich der Attributionsmethoden für Single-Touch und Multi-Touch sowie einen Vergleich der Attribution zwischen B2C- und B2B-Unternehmen.
 short-description: In dieser Lektion werden die Attributionsmethoden für Single-Touch und Multi-Touch sowie die Zuordnung zwischen B2C- und B2B-Unternehmen verglichen.
 role: User
@@ -12,12 +12,12 @@ exl-id: fc35f6b0-9491-4438-a9a8-8026472d13b7
 feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 89%
+source-wordcount: '72'
+ht-degree: 91%
 
 ---
 
-# Was ist Attribution?
+# Was ist Attribution
 
 Diese Lektion enthält eine Definition der Attribution, einen Vergleich der Attributionsmethoden für Single-Touch und Multi-Touch sowie einen Vergleich der Attribution zwischen B2C- und B2B-Unternehmen.
 
