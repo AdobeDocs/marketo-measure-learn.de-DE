@@ -1,6 +1,6 @@
 ---
-title: Marketing-Attributionsreife
-description: Erfahren Sie von Experten, wie MOPP-Teams von der fehlenden Attributionsberichterstellung zur Verwendung von Marketo Measure durch Fortune 100-Unternehmen ausgehen.
+title: Laufzeit der Marketing-Attribution
+description: Erfahren Sie von Fachleuten, wie MOps-Teams, die kein Attributions-Reporting verwenden, auf das Niveau von Fortune 100-Unternehmen gelangen, die Marketo Measure verwenden.
 feature: Attribution
 role: Leader, User
 level: Beginner
@@ -13,12 +13,12 @@ exl-id: 743d4983-75f8-445b-8145-2fc4c353d70d
 source-git-commit: 9c49e90ee088fad04ea733a42d150f6b31319cd6
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 
-# Marketing-Attributionsreife
+# Laufzeit der Marketing-Attribution
 
-Andy Schneider, Adobe Solutions Consultant (Marketo Measure) und Ian Michels, Adobe Marketo-Evangelist, diskutieren, wie ihre Marketing-Attribution mit Kunden kommuniziert und Erfahrungen macht. In diesem Gespräch wird erläutert, wie MOPP-Teams von der fehlenden Attributionsberichterstellung zur Verwendung von Marketo Measure durch Fortune 100-Unternehmen ausgehen.
+Andy Schneider, Adobe Solutions Consultant (Marketo Measure), und Ian Michels, Adobe Marketo-Evangelist, besprechen mit Kunden, wie sie ihre Gespräche und Erfahrungen mit der Marketing-Attribution führen. In diesem Gespräch wird erörtert, wie MOPP-Teams von der Berichterstattung ohne Attribution zur Verwendung von Marketo Measure in Fortune 100-Unternehmen übergehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426840/?learn=on)

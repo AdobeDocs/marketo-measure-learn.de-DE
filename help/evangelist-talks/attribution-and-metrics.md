@@ -1,6 +1,6 @@
 ---
 title: Marketing-Attribution und -Metriken
-description: Andy Schneider, Adobe Solutions Consultant und Ian Michels, Adobe Marketo-Evangelist, diskutieren über den Unterschied zwischen Marketing- und Marketing-Metriken. Auf dem Markt gibt es Reporting-Software, die angibt, dass sie eine Zuordnung vornehmen, aber in Wirklichkeit berichten sie über Marketing-Metriken. In dieser Diskussion erfahren Sie, welche Fragen Sie während des Verkaufsprozesses stellen müssen, wie Sie feststellen können, welche Software Marketing-Attribution oder Metrik-spezifisch ist und wie Sie Ihre Marketing-Attributionsanforderungen skalieren können.
+description: Andy Schneider, Adobe Solutions Consultant, und Ian Michels, Evangelist für Adobe Marketo, diskutieren den Unterschied zwischen Marketing-Attribution und Marketing-Metriken. Es gibt Reporting-Software auf dem Markt, die angibt, dass sie Attribution machen, aber in Wirklichkeit berichten sie über Marketing-Metriken. In dieser Diskussion erfahren Sie, welche Fragen während des Verkaufsprozesses gestellt werden müssen, wie Sie entschlüsseln können, welche Software für die Marketing-Attribution oder -Metrik spezifisch ist, und wie Sie Ihre Marketing-Attributionsanforderungen skalieren können.
 feature: Reporting, Attribution, Fundamentals, Touchpoints
 role: Leader
 level: Intermediate
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 # Marketing-Attribution und -Metriken
 
-Andy Schneider, Adobe Solutions Consultant und Ian Michels, Adobe Marketo-Evangelist, diskutieren über den Unterschied zwischen Marketing- und Marketing-Metriken. Auf dem Markt gibt es Reporting-Software, die angibt, dass sie eine Zuordnung vornehmen, aber in Wirklichkeit berichten sie über Marketing-Metriken. In dieser Diskussion erfahren Sie, welche Fragen Sie während des Verkaufsprozesses stellen müssen, wie Sie feststellen können, welche Software Marketing-Attribution oder Metrik-spezifisch ist und wie Sie Ihre Marketing-Attributionsanforderungen skalieren können.
+Andy Schneider, Adobe Solutions Consultant, und Ian Michels, Evangelist für Adobe Marketo, diskutieren den Unterschied zwischen Marketing-Attribution und Marketing-Metriken. Es gibt Reporting-Software auf dem Markt, die angibt, dass sie Attribution machen, aber in Wirklichkeit berichten sie über Marketing-Metriken. In dieser Diskussion erfahren Sie, welche Fragen während des Verkaufsprozesses gestellt werden müssen, wie Sie entschlüsseln können, welche Software für die Marketing-Attribution oder -Metrik spezifisch ist, und wie Sie Ihre Marketing-Attributionsanforderungen skalieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425898/?learn=on)
 
 ## Wichtigste Diskussionspunkte
 
-**3:00** - *Definieren von Attribution und Metriken*
-**6:00** - *Boilermetriken*
-**7:00** - *Attribution für Einzelkontakt und Skalierung auf Multitouch*
-**12:00** - *Mehrkontaktattribution verbessert Einblicke*
-**17:40** - *Marketing-Attribution und -Metriken funktionieren zusammen*
-**19:38** - *Segmentieren der Marketing-Attributionstools*
-**24:00** - *Mit der Marketing-Attribution weiter wachsen*
+**3:** - *Definieren von Attribution und Metriken*
+**6:** - *Kesselmetriken*
+**7:00** - *Attribution über nur einen Kontakt und Skalierung auf mehrere Kontakte*
+**12:00** - *Multi-Touch-Attribution verbessert die Einblicke*
+**17:** - *Marketing-Attribution und -Metriken arbeiten zusammen*
+**19:** - *Tools für die Marketing-Attribution*
+**24:** - *Wachsen Sie mit der Marketing-Attribution weiter*

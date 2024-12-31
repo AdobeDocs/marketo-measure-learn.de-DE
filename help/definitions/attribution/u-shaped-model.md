@@ -1,6 +1,6 @@
 ---
 title: U-förmiges Modell
-description: Dieses Video bietet eine ausführliche Erläuterung des U-förmigen Modells.
+description: In diesem Video wird das U-förmige Modell eingehend erläutert.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,13 +11,13 @@ exl-id: 350a82a6-c931-42cc-a99c-515edfc4748c
 feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
 
 # U-förmiges Modell
 
-Dieses Video bietet eine ausführliche Erläuterung des U-förmigen Modells.
+In diesem Video wird das U-förmige Modell eingehend erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347214/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: Warum [!DNL Marketo Measure]  für Ereignismarketing
-description: In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für Events Marketing-Teams zusammengefasst.
+title: ' [!DNL Marketo Measure]  für Marketing-Events'
+description: In dieser Lektion werden  [!DNL Marketo Measure] wichtigsten Funktionen von und der Wert für Marketing-Teams für Veranstaltungen zusammengefasst.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,13 +12,13 @@ feature: Fundamentals
 hidefromtoc: true
 source-git-commit: d8164c4838e2b10d80e873a4ad8a5442daef7d1b
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-# Warum [!DNL Marketo Measure] für Ereignismarketing
+# Gründe [!DNL Marketo Measure] Marketing-Events
 
-In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für Events Marketing-Teams zusammengefasst.
+Diese Lektion fasst die wichtigsten Funktionen und den Wert von [!DNL Marketo Measure] für Marketing-Teams von Veranstaltungen zusammen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}

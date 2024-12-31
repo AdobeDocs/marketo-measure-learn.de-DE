@@ -1,6 +1,6 @@
 ---
-title: Warum [!DNL Marketo Measure] für CMOs und VPs
-description: In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für CMOs und andere führende Marketing-Experten zusammengefasst.
+title: ' [!DNL Marketo Measure]  für CMOs und VPs'
+description: In dieser Lektion werden  [!DNL Marketo Measure] wichtigsten Funktionen von und der Wert für CMOs und andere führende Marketing-Fachleute zusammengefasst.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -12,13 +12,13 @@ feature: Fundamentals
 hidefromtoc: true
 source-git-commit: a9b06f57d18fb8854ace2fe61aa153994e8d8be2
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Warum [!DNL Marketo Measure] für CMOs und VPs
+# [!DNL Marketo Measure] für CMOs und VPs
 
-In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für CMOs und andere führende Marketing-Experten zusammengefasst.
+Diese Lektion fasst die wichtigsten Funktionen und den Wert von [!DNL Marketo Measure] für CMOs und andere führende Marketing-Leiter zusammen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

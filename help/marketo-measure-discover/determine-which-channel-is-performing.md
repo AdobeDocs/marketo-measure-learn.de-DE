@@ -1,6 +1,6 @@
 ---
-title: Bestimmen der Leistung des Kanals (Pt.2)
-description: Dieser Bericht konzentriert sich auf den oberen bis mittleren Teil des Marketing-Trichters. Sobald der Bericht erstellt wurde, können Sie sehen, welche Kanäle die meisten Chancen bieten, sodass Sie wiederum in diese Marketingkanäle investieren können.
+title: Ermitteln, welcher Kanal funktioniert (Punkt 2)
+description: Dieser Bericht konzentriert sich auf den oberen bis mittleren Teil des Marketing-Trichters. Sobald der Bericht erstellt ist, können Sie sehen, welche Kanäle die meisten Gelegenheiten generieren, sodass Sie wiederum in diese Marketing-Kanäle investieren können.
 feature-set: Marketo Measure
 feature: Discover,Reporting
 role: User
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Bestimmen der Leistung des Kanals
+# Ermitteln, welcher Kanal funktioniert
 
-Dieser Bericht konzentriert sich auf den oberen bis mittleren Teil des Marketing-Trichters. Sobald der Bericht erstellt wurde, können Sie sehen, welche Kanäle die meisten Chancen bieten, sodass Sie wiederum in diese Marketingkanäle investieren können.
+Dieser Bericht konzentriert sich auf den oberen bis mittleren Teil des Marketing-Trichters. Sobald der Bericht erstellt ist, können Sie sehen, welche Kanäle die meisten Gelegenheiten generieren, sodass Sie wiederum in diese Marketing-Kanäle investieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)

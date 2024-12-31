@@ -1,6 +1,6 @@
 ---
-title: SFDC-Installation - Übersicht
-description: Einrichten der Marketo Measure SFDC-Installation
+title: SFDC-Installationsübersicht
+description: Marketo Measure SFDC-Installationseinstellungen
 feature-set: Marketo Measure
 feature: Fundamentals, Installation
 role: User
@@ -12,13 +12,13 @@ thumbnail: 3424427.jpeg
 exl-id: f9ea8a34-c1d2-424c-9738-8a5ac2efcb3d
 source-git-commit: d2efe7e48e06ebb4f39716f9cc9612bd67451eb5
 workflow-type: tm+mt
-source-wordcount: '17'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
 # SFDC-Installation
 
-Einrichten der Marketo Measure SFDC-Installation
+Marketo Measure SFDC-Installationseinstellungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424427/?learn=on){transcript=true}

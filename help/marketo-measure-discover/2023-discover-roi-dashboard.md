@@ -1,6 +1,6 @@
 ---
-title: ROI-Dashboard kennenlernen
-description: Das ROI-Dashboard bietet Marketing-Experten einen detaillierten Überblick über die Investitionsrenditen über Kanäle, Unterkanäle und Kampagnen hinweg. Sie schlüsselt Kosten- und Umsatzmuster sorgfältig auf und zeigt gleichzeitig Metriken wie Kosten-pro-Interessent-, Deal- und Opportunities auf, um ein umfassendes Verständnis der Marketing-Attribution zu gewährleisten.
+title: Discover ROI Dashboard
+description: Das ROI-Dashboard bietet Marketing-Experten einen detaillierten Überblick über die Investitionsrenditen in Kanälen, Unterkanälen und Kampagnen. Sie schlüsselt Kosten- und Umsatzmuster akribisch auf und beleuchtet Metriken wie Kosten pro Lead, Abschluss und Opportunity und stellt so ein umfassendes Verständnis der Marketing-Attribution sicher.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
@@ -12,13 +12,13 @@ thumbnail: 3425023.jpeg
 exl-id: e5609410-85da-46d8-b42c-afa7f0ab513e
 source-git-commit: af63fa0af66ad5c3a57f116fb9c02b34171fc7db
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# Entdecken Sie das ROI-Dashboard - Vorgestelltes Video
+# Entdecken des ROI-Dashboards - Vorgestelltes Video
 
-Das ROI-Dashboard bietet Marketing-Experten einen detaillierten Überblick über die Investitionsrenditen über Kanäle, Unterkanäle und Kampagnen hinweg. Sie schlüsselt Kosten- und Umsatzmuster sorgfältig auf und zeigt gleichzeitig Metriken wie Kosten-pro-Interessent-, Deal- und Opportunities auf, um ein umfassendes Verständnis der Marketing-Attribution zu gewährleisten.
+Das ROI-Dashboard bietet Marketing-Experten einen detaillierten Überblick über die Investitionsrenditen in Kanälen, Unterkanälen und Kampagnen. Sie schlüsselt Kosten- und Umsatzmuster akribisch auf und beleuchtet Metriken wie Kosten pro Lead, Abschluss und Opportunity und stellt so ein umfassendes Verständnis der Marketing-Attribution sicher.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}

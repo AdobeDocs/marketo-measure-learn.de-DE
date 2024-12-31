@@ -1,6 +1,6 @@
 ---
-title: Online-Kanal-Einrichtung
-description: Erfahren Sie mehr über Online-Kanäle, Erstellen von Kanälen und das Arbeitsblatt für Online-Kanäle.
+title: Einrichtung des Online-Kanals
+description: Erfahren Sie mehr über Online-Kanäle, das Erstellen von Kanälen und das Online-Kanal-Arbeitsblatt.
 feature-set: Marketo Measure
 feature: Touchpoints, Tracking, UTM Parameters
 role: User
@@ -12,13 +12,13 @@ thumbnail: 3424422.jpeg
 exl-id: 6b7cf1da-159f-4898-adfd-883ffd7b3ddd
 source-git-commit: ddbe42250815c776ae25f660a34bbbcd47d8a480
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
-# Online-Kanal-Einrichtung
+# Einrichtung des Online-Kanals
 
-Erfahren Sie mehr über Online-Kanäle, Erstellen von Kanälen und das Arbeitsblatt für Online-Kanäle.
+Erfahren Sie mehr über Online-Kanäle, das Erstellen von Kanälen und das Online-Kanal-Arbeitsblatt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}

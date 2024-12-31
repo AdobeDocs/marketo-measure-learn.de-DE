@@ -1,6 +1,6 @@
 ---
-title: Offline-Kanal-Einrichtung
-description: Anleitung zur Einrichtung von Marketo Measure-Offline-Kanälen
+title: Offline-Kanal einrichten
+description: Einrichtungshandbuch für Marketo Measure Offline-Kanal
 feature-set: Marketo Measure
 feature: Channels, Touchpoints
 role: User
@@ -12,13 +12,13 @@ thumbnail: 3424428.jpeg
 exl-id: 1e081fe1-1b3c-44db-baaa-b1a0c741b18f
 source-git-commit: d2efe7e48e06ebb4f39716f9cc9612bd67451eb5
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '18'
 ht-degree: 0%
 
 ---
 
-# Offline-Kanal-Einrichtung
+# Offline-Kanal einrichten
 
-Anleitung zur Einrichtung von Marketo Measure-Offline-Kanälen
+Einrichtungshandbuch für Marketo Measure Offline-Kanal
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424428/?learn=on){transcript=true}

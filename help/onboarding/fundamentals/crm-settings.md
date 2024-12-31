@@ -1,6 +1,6 @@
 ---
-title: CRM-Einstellungen (Pt.3)
-description: Eine Übersicht über die CRM-Einstellung in Marketo Measure.
+title: CRM-Einstellungen (pt.3)
+description: Überprüfung der CRM-Einstellung in Marketo Measure.
 feature-set: Marketo Measure
 feature: Fundamentals
 role: User
@@ -12,13 +12,13 @@ thumbnail: 3424429.jpeg
 exl-id: 5c794877-bf8b-4fd7-8653-da80dc2cc77f
 source-git-commit: d2efe7e48e06ebb4f39716f9cc9612bd67451eb5
 workflow-type: tm+mt
-source-wordcount: '25'
+source-wordcount: '23'
 ht-degree: 0%
 
 ---
 
 # CRM-Einstellungen
 
-Eine Übersicht über die CRM-Einstellung in Marketo Measure.
+Überprüfung der CRM-Einstellung in Marketo Measure.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}

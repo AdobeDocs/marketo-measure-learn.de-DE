@@ -1,6 +1,6 @@
 ---
-title: Warum [!DNL Marketo Measure]  für Content Marketing
-description: In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für Content Marketing-Teams zusammengefasst.
+title: ' [!DNL Marketo Measure]  für Content-Marketing'
+description: In dieser Lektion werden  [!DNL Marketo Measure] wichtigsten Funktionen und der Wert von für Content-Marketing-Teams zusammengefasst.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,13 +12,13 @@ feature: Fundamentals
 hidefromtoc: true
 source-git-commit: 0b8e2531dec2557bf306f5af6305fe6ffb9c6c37
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-# Warum [!DNL Marketo Measure] für Content Marketing
+# Gründe für [!DNL Marketo Measure] Content-Marketing
 
-In dieser Lektion werden die wichtigsten Funktionen und Werte von [!DNL Marketo Measure] für Content Marketing-Teams zusammengefasst.
+Diese Lektion fasst die wichtigsten Funktionen und den Wert von [!DNL Marketo Measure] für Content-Marketing-Teams zusammen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Lead-Erstellungsmodell
-description: In diesem Video erhalten Sie eine ausführliche Erläuterung des Lead-Erstellungsmodells.
+description: In diesem Video wird das Modell der Lead-Erstellung ausführlich erläutert.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,13 +11,13 @@ exl-id: 7b6ca1ea-9cfe-4b3a-b4a0-a150cd7af0eb
 feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
 # Lead-Erstellungsmodell
 
-In diesem Video erhalten Sie eine ausführliche Erläuterung des Lead-Erstellungsmodells.
+In diesem Video wird das Modell der Lead-Erstellung ausführlich erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}

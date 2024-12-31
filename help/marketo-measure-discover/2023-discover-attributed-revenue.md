@@ -1,6 +1,6 @@
 ---
-title: Ermitteln des zugewiesenen Umsatzes
-description: Das Dashboard "Zugewiesener Umsatz"bietet eine fokussierte Sicht auf den Umsatz, der direkt mit Ihren Marketingbemühungen verbunden ist. Erfahren Sie, wie Ihre Marketingstrategien bei der Abdichtung von Geschäften hilfreich waren.
+title: Ermitteln des zugeordneten Umsatzes
+description: Das Dashboard Zugewiesener Umsatz bietet eine fokussierte Perspektive auf den Umsatz, der direkt mit Ihren Marketing-Maßnahmen verknüpft ist. Erfahren Sie, wie Ihre Marketing-Strategien zum Abschließen von Angeboten beigetragen haben.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
@@ -12,13 +12,13 @@ thumbnail: 3425024.jpeg
 exl-id: 9d423ae0-f44a-4821-9739-67878fdeabdb
 source-git-commit: af63fa0af66ad5c3a57f116fb9c02b34171fc7db
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Ermitteln des zugewiesenen Umsatzes - Vorgestelltes Video
+# Attributierter Umsatz entdecken - Video zu Vorführungen
 
-Das Dashboard &quot;Zugewiesener Umsatz&quot;bietet eine fokussierte Sicht auf den Umsatz, der direkt mit Ihren Marketingbemühungen verbunden ist. Erfahren Sie, wie Ihre Marketingstrategien bei der Abdichtung von Geschäften hilfreich waren.
+Das Dashboard Zugewiesener Umsatz bietet eine fokussierte Perspektive auf den Umsatz, der direkt mit Ihren Marketing-Maßnahmen verknüpft ist. Erfahren Sie, wie Ihre Marketing-Strategien zum Abschließen von Angeboten beigetragen haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425024/?learn=on){transcript=true}

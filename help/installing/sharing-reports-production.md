@@ -1,6 +1,6 @@
 ---
-title: Berichte und Dashboards freigeben und ausblenden (Produktionsinstanz)
-description: Erfahren Sie, wie Sie Berichte und Dashboards anzeigen, freigeben und ausblenden.
+title: Freigeben und Ausblenden von Berichten und Dashboards (Produktionsinstanz)
+description: Erfahren Sie, wie Sie Berichte und Dashboards anzeigen, freigeben und ausblenden können.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,12 +11,12 @@ exl-id: ac39a5a5-544e-4e1f-85c7-5d1f08a8e6d8
 feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Berichte und Dashboards freigeben und ausblenden (Produktionsinstanz)
+# Freigeben und Ausblenden von Berichten und Dashboards (Produktionsinstanz)
 
 In dieser Lektion wird die Anzeige und Freigabe von Berichten und Dashboards behandelt.
 

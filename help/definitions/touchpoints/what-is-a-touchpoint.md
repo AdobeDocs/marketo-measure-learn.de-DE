@@ -9,7 +9,7 @@ exl-id: 9527bd18-3e91-400e-ba68-3ed82c2926d1
 feature: Touchpoints
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '26'
 ht-degree: 0%
 
 ---
