@@ -26,5 +26,5 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen und Eins
 
 ## Live-Events von Experience League
 
-* Die neuen Discover Dashboards von **[Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* Die neuen Discover Dashboards von **[Marketo Measure](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *Erfahren Sie mehr über die neuen, komplett überarbeiteten Discover Dashboards.*
