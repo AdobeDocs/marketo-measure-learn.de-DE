@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Überprüfung der Aktivitätseinrichtung in Marketo Measure. Hier werden Marketo Engage- und CRM-Aktivitäten überprüft.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453222/?learn=on&captions=ger){transcript=true}

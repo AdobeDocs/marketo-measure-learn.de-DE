@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Verschaffen Sie sich einen Überblick darüber, wie [!DNL Marketo Measure] Daten mithilfe verschiedener Eingaben erfasst und verarbeitet, um Attributionsdaten bereitzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432024/?learn=on&captions=ger){transcript=true}

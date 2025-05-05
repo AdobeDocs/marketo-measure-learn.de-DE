@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In diesem Video wird das Modell der Lead-Erstellung ausführlich erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432092/?learn=on&captions=ger){transcript=true}

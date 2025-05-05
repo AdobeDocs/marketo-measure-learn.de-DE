@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Ein Überblick über Unterdrückung, Segmentierung und Kosten in Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453233/?learn=on&captions=ger){transcript=true}

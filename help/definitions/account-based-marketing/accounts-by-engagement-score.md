@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Ein allgemeiner Überblick über den [!UICONTROL Account nach Interaktionswert].  In diesem Tutorial wird erläutert, welche Metriken in diesen Score eingehen und welcher Bericht damit verknüpft ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432131/?learn=on&captions=ger){transcript=true}

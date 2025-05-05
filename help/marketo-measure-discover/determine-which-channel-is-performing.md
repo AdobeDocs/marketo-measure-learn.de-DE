@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Dieser Bericht konzentriert sich auf den oberen bis mittleren Teil des Marketing-Trichters. Sobald der Bericht erstellt ist, können Sie sehen, welche Kanäle die meisten Gelegenheiten generieren, sodass Sie wiederum in diese Marketing-Kanäle investieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443749/?learn=on&captions=ger)

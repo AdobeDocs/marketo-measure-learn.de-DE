@@ -16,4 +16,4 @@ ht-degree: 6%
 
 Sehen Sie sich die zweite Lektion in der Boomerang-Kursreihe an. Bitte nimm die erste Lektion an, bevor du diese anschaust. Hier wird das Einrichten [!UICONTROL Boomerang-Stadien] in [!DNL Marketo Measure] beschrieben.
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431588/?learn=on&captions=ger){transcript=true}

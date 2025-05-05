@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über Online-Kanäle, das Erstellen von Kanälen und das Online-Kanal-Arbeitsblatt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454161/?learn=on&captions=ger){transcript=true}

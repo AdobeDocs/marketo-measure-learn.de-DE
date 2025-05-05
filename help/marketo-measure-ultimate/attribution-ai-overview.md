@@ -20,4 +20,4 @@ ht-degree: 68%
 
 Erfahren Sie, wie die Attributions-KI von Adobe B2B-Marketing-Messungen dank hochmoderner KI-/ML-Modellierung verbessert, genaue Attributionserkenntnisse liefert und Verzerrungen für eine präzise Analyse beseitigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433052/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447230/?learn=on&captions=ger)

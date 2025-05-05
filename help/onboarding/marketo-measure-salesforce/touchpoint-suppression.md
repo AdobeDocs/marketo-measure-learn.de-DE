@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In dieser Lektion wird beschrieben, wie Sie Touchpoint-Unterdrückungsregeln in Salesforce CRM einrichten und warum Sie dies tun sollten.
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432015/?learn=on&captions=ger){transcript=true}

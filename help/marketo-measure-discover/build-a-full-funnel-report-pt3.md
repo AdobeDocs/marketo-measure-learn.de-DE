@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Bericht werfen wir einen Blick auf den vollständigen Trichterbericht. Dieser Discover-Bericht verfolgt von Anfang bis Ende, welche Kanäle aktiv waren, und ordnet dann Vertriebschancen und/oder Umsätze diesen Kanälen zu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443760/?learn=on&captions=ger){transcript=true}

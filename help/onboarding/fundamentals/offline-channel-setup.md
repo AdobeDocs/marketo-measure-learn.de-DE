@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Einrichtungshandbuch für Marketo Measure Offline-Kanal
 
->[!VIDEO](https://video.tv.adobe.com/v/3424428/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454622/?learn=on&captions=ger){transcript=true}

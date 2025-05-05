@@ -19,4 +19,4 @@ ht-degree: 32%
 
 Erfahren Sie, wie B2B-Marketer mit Marketo Measure Ultimate Daten aus fast jeder Quelle, einschließlich mehrerer Quellen desselben Typs, erfassen können, um eine gründliche Attribution zu ermöglichen. Dadurch erhalten B2B-Marketer Zugriff auf erweiterte Analysen und Einblicke, um ihre Marketing-Strategien zu verbessern und das Geschäftswachstum zu steigern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433044/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446473/?learn=on&captions=ger)

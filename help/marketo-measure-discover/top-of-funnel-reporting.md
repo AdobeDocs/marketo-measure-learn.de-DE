@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Dieses Video führt Sie durch einen Trichterbericht, der Ihnen zeigt, ob Marketo Measure Leads verfolgt, ob Sie Leads generieren und ob Ihre Kanaleinrichtung korrekt durchgeführt wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441789/?learn=on&captions=ger){transcript=true}

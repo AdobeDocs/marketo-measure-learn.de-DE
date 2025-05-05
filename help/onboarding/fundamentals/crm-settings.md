@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Überprüfung der CRM-Einstellung in Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451747/?learn=on&captions=ger){transcript=true}

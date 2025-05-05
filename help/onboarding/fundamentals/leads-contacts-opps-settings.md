@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Prüfung der CRM-Einstellungen Leads, Kontakte und Opportunities.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453728/?learn=on&captions=ger){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In diesem Video wird das Modell des vollständigen Pfads ausführlich erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432038/?learn=on&captions=ger){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In diesem Video wird das First-Touch-Modell ausführlich erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432098/?learn=on&captions=ger){transcript=true}

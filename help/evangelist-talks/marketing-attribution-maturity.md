@@ -21,4 +21,4 @@ ht-degree: 30%
 
 Andy Schneider, Adobe Solutions Consultant (Marketo Measure), und Ian Michels, Adobe Marketo-Evangelist, besprechen mit Kunden, wie sie ihre Gespräche und Erfahrungen mit der Marketing-Attribution führen. In diesem Gespräch wird erörtert, wie MOPP-Teams von der Berichterstattung ohne Attribution zur Verwendung von Marketo Measure in Fortune 100-Unternehmen übergehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426840/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456518/?learn=on&captions=ger)

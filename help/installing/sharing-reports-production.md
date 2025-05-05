@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In dieser Lektion wird die Anzeige und Freigabe von Berichten und Dashboards behandelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431547/?learn=on&captions=ger){transcript=true}

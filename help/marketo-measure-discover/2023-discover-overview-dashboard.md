@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Das Dashboard „Umsatzübersicht“ bietet Einblicke in den Gesamtumsatz Ihres CRM und beleuchtet die Rolle Ihrer Marketing-Strategien. Es bietet einen Überblick darüber, wie das Marketing Ihren Gesamtumsatz beeinflusst und zum erfolgreichen Abschluss von Angeboten beiträgt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446362/?learn=on&captions=ger){transcript=true}
