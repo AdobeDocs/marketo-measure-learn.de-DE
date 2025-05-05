@@ -33,7 +33,7 @@ ht-degree: 6%
       + [Verbindung mit Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Aktivitäts-Touchpoints](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [Unterdrückung, Segmentierung und Kosten](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
-   + {#marketing-role} der Marketing-Rolle
+   + der Marketing-Rolle{#marketing-role}
       + [ [!DNL Marketo Measure]  für CMOs und VPs](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Verwenden  [!DNL Marketo Measure] als CMO oder VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
       + [Warum  [!DNL Marketo Measure]  nach bezahlten Medien?](/help/onboarding/marketing-role/demand-gen-why.md)
@@ -106,7 +106,7 @@ ht-degree: 6%
    + Account-Based Marketing {#account-based-marketing}
       + [[!UICONTROL Account-Based Marketing] Übersicht](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Konten nach Interaktionswert]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL Bericht „Konten mit Leads und ]&quot;](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL Bericht „Konten mit Leads und &#x200B;]&quot;](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints pro Konto] Bericht](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + Boomerang-Stadium {#boomerang-stage}
       + [Einführung in Boomerang-Stadien](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
@@ -119,4 +119,4 @@ ht-degree: 6%
    + [Laufzeit der Marketing-Attribution](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Marketing-Attribution und Datensilos](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Live-Aufnahmen von Experience League{#experience-league-live-recordings}
-   + Die neuen Discover Dashboards von [Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Die neuen Discover Dashboards von Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
