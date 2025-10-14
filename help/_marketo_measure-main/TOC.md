@@ -34,11 +34,11 @@ ht-degree: 6%
       + [Aktivitäts-Touchpoints](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [Unterdrückung, Segmentierung und Kosten](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + der Marketing-Rolle{#marketing-role}
-      + [ [!DNL Marketo Measure]  für CMOs und VPs](/help/onboarding/marketing-role/cmo-and-vp-why.md)
+      + [&#x200B; [!DNL Marketo Measure]  für CMOs und VPs](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Verwenden  [!DNL Marketo Measure] als CMO oder VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
       + [Warum  [!DNL Marketo Measure]  nach bezahlten Medien?](/help/onboarding/marketing-role/demand-gen-why.md)
       + [Nutzung  [!DNL Marketo Measure]  Demand Gen/Paid Media-Marketing](/help/onboarding/marketing-role/demand-gen-using.md)
-      + [ [!DNL Marketo Measure]  für Content-Marketing](/help/onboarding/marketing-role/content-marketing-why.md)
+      + [&#x200B; [!DNL Marketo Measure]  für Content-Marketing](/help/onboarding/marketing-role/content-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Inhalts-Marketing-Experte](/help/onboarding/marketing-role/content-marketing-using.md)
       + [Warum  [!DNL Marketo Measure]  Marketing-Events?](/help/onboarding/marketing-role/events-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Marketing-Experte für Ereignisse](/help/onboarding/marketing-role/events-marketing-using.md)
