@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 6%
 
 + [Tutorials für [!DNL Marketo Measure]](overview.md)
 + [Übersicht über Marketo Measure](/help/marketo-measure-overview.md)
-+ Marketo Measure-{#install}
++ Marketo Measure-Installation {#install}
    + [Marketo Measure-Installation](/help/installing/install-production.md)
    + [Ändern von Berechtigungssätzen](/help/installing/modify-permission-sets-production.md)
    + [Freigeben und Ausblenden von Berichten und Dashboards](/help/installing/sharing-reports-production.md)
    + [Erstellen des  [!DNL Marketo Measure] -Kontos](/help/installing/creating-marketo-measure-account-production.md)
-+ Onboarding {#onboarding}
-   + Best Practices-{#best-practices}
++ Einstieg {#onboarding}
+   + Bewährte Methoden {#best-practices}
       + [Reporting-Einstellungen überprüfen (pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [Kanal- und Integrationseinstellungen überprüfen (Punkt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [CRM-Einstellungen (pt.3)](/help/onboarding/fundamentals/crm-settings.md)
@@ -33,12 +33,12 @@ ht-degree: 6%
       + [Verbindung mit Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Aktivitäts-Touchpoints](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [Unterdrückung, Segmentierung und Kosten](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
-   + der Marketing-Rolle{#marketing-role}
-      + [&#x200B; [!DNL Marketo Measure]  für CMOs und VPs](/help/onboarding/marketing-role/cmo-and-vp-why.md)
+   + Marketing-Rolle {#marketing-role}
+      + [ [!DNL Marketo Measure]  für CMOs und VPs](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Verwenden  [!DNL Marketo Measure] als CMO oder VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
       + [Warum  [!DNL Marketo Measure]  nach bezahlten Medien?](/help/onboarding/marketing-role/demand-gen-why.md)
       + [Nutzung  [!DNL Marketo Measure]  Demand Gen/Paid Media-Marketing](/help/onboarding/marketing-role/demand-gen-using.md)
-      + [&#x200B; [!DNL Marketo Measure]  für Content-Marketing](/help/onboarding/marketing-role/content-marketing-why.md)
+      + [ [!DNL Marketo Measure]  für Content-Marketing](/help/onboarding/marketing-role/content-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Inhalts-Marketing-Experte](/help/onboarding/marketing-role/content-marketing-using.md)
       + [Warum  [!DNL Marketo Measure]  Marketing-Events?](/help/onboarding/marketing-role/events-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Marketing-Experte für Ereignisse](/help/onboarding/marketing-role/events-marketing-using.md)
@@ -72,7 +72,7 @@ ht-degree: 6%
    + [Discover ROI Dashboard](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [Ermitteln, welcher Kanal funktioniert (Punkt 1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Ermitteln, welcher Kanal funktioniert (Punkt 2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
-   + [Discover Funnel-Berichte (pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
+   + [Discover Funnel-Reporting (pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Definitionen {#definitions}
    + Touchpoints{#touchpoints}
       + [Was ist ein Touchpoint?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
@@ -106,17 +106,17 @@ ht-degree: 6%
    + Account-Based Marketing {#account-based-marketing}
       + [[!UICONTROL Account-Based Marketing] Übersicht](/help/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Konten nach Interaktionswert]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL Bericht „Konten mit Leads und &#x200B;]&quot;](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL Bericht „Konten mit Leads und ]&quot;](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints pro Konto] Bericht](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
-   + Boomerang-Stadium {#boomerang-stage}
+   + Bumerangstufe {#boomerang-stage}
       + [Einführung in Boomerang-Stadien](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Boomerang-Stadien einrichten](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Marketo Measure Ultimate {#marketo-measure-ultimate}
    + [Übersicht über Marketo Measure Ultimate](/help/marketo-measure-ultimate/overview.md)
-   + [Attribution AI-Übersicht](/help/marketo-measure-ultimate/attribution-ai-overview.md)
-+ Evangelist spricht {#evangelist}
+   + [Attribution AI - Übersicht](/help/marketo-measure-ultimate/attribution-ai-overview.md)
++ Vorträge von Evangelisten {#evangelist}
    + [Marketing-Attribution und -Metriken](/help/evangelist-talks/attribution-and-metrics.md)
    + [Laufzeit der Marketing-Attribution](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Marketing-Attribution und Datensilos](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
-+ Live-Aufnahmen von Experience League{#experience-league-live-recordings}
-   + [Die neuen Discover Dashboards von Marketo Measure](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
++ Experience League Live-Aufzeichnungen{#experience-league-live-recordings}
+   + Die neuen Discover Dashboards von [Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
