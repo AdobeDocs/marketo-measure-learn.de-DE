@@ -119,4 +119,4 @@ ht-degree: 7%
    + [Laufzeit der Marketing-Attribution](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Marketing-Attribution und Datensilos](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League Live-Aufzeichnungen{#experience-league-live-recordings}
-   + [Die neuen Discover Dashboards von Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Die neuen Discover Dashboards von Marketo Measure](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
