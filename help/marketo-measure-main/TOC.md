@@ -34,11 +34,11 @@ ht-degree: 7%
       + [Aktivitäts-Touchpoints](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [Unterdrückung, Segmentierung und Kosten](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Marketing-Rolle {#marketing-role}
-      + [ [!DNL Marketo Measure]  für CMOs und VPs](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + [&#x200B; [!DNL Marketo Measure]  für CMOs und VPs](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Verwenden  [!DNL Marketo Measure] als CMO oder VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
       + [Warum  [!DNL Marketo Measure]  nach bezahlten Medien?](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
       + [Nutzung  [!DNL Marketo Measure]  Demand Gen/Paid Media-Marketing](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [ [!DNL Marketo Measure]  für Content-Marketing](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + [&#x200B; [!DNL Marketo Measure]  für Content-Marketing](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Inhalts-Marketing-Experte](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
       + [Warum  [!DNL Marketo Measure]  Marketing-Events?](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Marketing-Experte für Ereignisse](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
@@ -106,7 +106,7 @@ ht-degree: 7%
    + Account-Based Marketing {#account-based-marketing}
       + [[!UICONTROL Account-Based Marketing] Übersicht](/help/marketo-measure-main/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Konten nach Interaktionswert]](/help/marketo-measure-main/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL Bericht „Konten mit Leads und ]&quot;](/help/marketo-measure-main/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL Bericht „Konten mit Leads und &#x200B;]&quot;](/help/marketo-measure-main/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints pro Konto] Bericht](/help/marketo-measure-main/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + Bumerangstufe {#boomerang-stage}
       + [Einführung in Boomerang-Stadien](/help/marketo-measure-main/definitions/boomerang-stage/introduction-to-boomerang-stages.md)

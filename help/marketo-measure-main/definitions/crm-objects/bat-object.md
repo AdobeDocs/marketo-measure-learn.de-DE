@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Marketo Measure] Attribution Touchpoint-Objekt'
-description: Erfahren Sie mehr  [!DNL Marketo Measure] [!UICONTROL  Attribution Touchpoints].
+description: Erfahren Sie mehr  [!DNL Marketo Measure] [!UICONTROL &#x200B; Attribution Touchpoints].
 role: User
 level: Beginner
 doc-type: Feature Video
