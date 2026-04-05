@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die Beziehung zwischen [!DNL Marketo Measure] und dem Kontoobjekt.
 
->[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436089/?captions=ger&learn=on){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video wird ein erster Schritt des funnel-Berichts gezeigt, der Ihnen zeigt, ob Marketo Measure Leads verfolgt, ob Sie Leads generieren und ob Ihre Kanaleinrichtung korrekt durchgeführt wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441789/?captions=ger&learn=on){transcript=true}

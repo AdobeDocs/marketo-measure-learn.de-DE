@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Diese Lektion fasst die wichtigsten Funktionen und den Wert von [!DNL Marketo Measure] für Content-Marketing-Teams zusammen.
 
->[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431565/?captions=ger&learn=on){transcript=true}

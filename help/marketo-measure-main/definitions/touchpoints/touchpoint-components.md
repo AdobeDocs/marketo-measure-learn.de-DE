@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Hier erhalten Sie eine Aufschlüsselung der verschiedenen Komponenten von Touchpoints und ihrer Definition. In diesem Beispiel werden Komponenten sowohl von BTs als auch von BATs beschädigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437621/?captions=ger&learn=on){transcript=true}
