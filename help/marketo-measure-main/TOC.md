@@ -3,7 +3,7 @@ user-guide-title: Tutorials zu [!DNL Marketo Measure]
 breadcrumb-title: Tutorials zu [!DNL Marketo Measure]
 user-guide-description: Erfahren Sie, wie Sie das Meiste aus  [!DNL Adobe Marketo Measure]  (ehemals  [!DNL Bizible]) herausholen. Sehen Sie sich Tutorials zu Installation, Onboarding, Grundlagen und Definitionen an.
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 7%
@@ -34,15 +34,15 @@ ht-degree: 7%
       + [Aktivitäts-Touchpoints](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [Unterdrückung, Segmentierung und Kosten](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Marketing-Rolle {#marketing-role}
-      + [&#x200B; [!DNL Marketo Measure]  für CMOs und VPs](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + {hide-from-toc}[Warum [!DNL Marketo Measure]  für CMOs und VPs](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Verwenden  [!DNL Marketo Measure] als CMO oder VP](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [Warum  [!DNL Marketo Measure]  nach bezahlten Medien?](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + {hide-from-toc}[Warum [!DNL Marketo Measure] für Demand gen/Paid Media](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
       + [Nutzung  [!DNL Marketo Measure]  Demand Gen/Paid Media-Marketing](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [&#x200B; [!DNL Marketo Measure]  für Content-Marketing](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + {hide-from-toc}[Warum [!DNL Marketo Measure]  für Content-Marketing](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Inhalts-Marketing-Experte](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [Warum  [!DNL Marketo Measure]  Marketing-Events?](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + {hide-from-toc}[Warum [!DNL Marketo Measure] für Marketing-Events](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  als Marketing-Experte für Ereignisse](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [Warum  [!DNL Marketo Measure]  E-Mail-Marketing?](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + {hide-from-toc}[Warum [!DNL Marketo Measure] für E-Mail-Marketing](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
       + [Verwenden  [!DNL Marketo Measure]  E-Mail-Marketing-Experten](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [Was ist Attribution](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
