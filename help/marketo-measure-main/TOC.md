@@ -106,7 +106,7 @@ ht-degree: 7%
    + Account-Based Marketing {#account-based-marketing}
       + [[!UICONTROL Account-Based Marketing] Übersicht](/help/marketo-measure-main/definitions/account-based-marketing/abm-overview.md)
       + [[!UICONTROL Konten nach Interaktionswert]](/help/marketo-measure-main/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL Bericht „Konten mit Leads und ]&quot;](/help/marketo-measure-main/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL Bericht „Konten mit Leads und &#x200B;]&quot;](/help/marketo-measure-main/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [[!UICONTROL Touchpoints pro Konto] Bericht](/help/marketo-measure-main/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + Bumerangstufe {#boomerang-stage}
       + [Einführung in Boomerang-Stadien](/help/marketo-measure-main/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
