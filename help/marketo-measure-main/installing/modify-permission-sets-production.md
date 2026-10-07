@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Berechtigungssätze in [!DNL Marketo Measure] (Produktionsinstanz) ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431526/?captions=ger&learn=on){transcript=true}

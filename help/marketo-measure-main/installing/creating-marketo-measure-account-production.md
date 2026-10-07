@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie das [!DNL Marketo Measure]-Konto erstellen und Anzeigenplattformen (Produktionsinstanz) verbinden.
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431533/?captions=ger&learn=on){transcript=true}
